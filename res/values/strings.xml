@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">影</string>
+    <string name="menu_insert">写新日记</string>
+    <string name="menu_delete">删除日记</string>
+    <string name="title">题目</string>
+    <string name="body">内容</string>
+    <string name="confirm">确定</string>
+    <string name="edit_diary">修改</string>
+</resources>
